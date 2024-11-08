@@ -61,7 +61,11 @@
 			<version>2.2.224</version>
 			<scope>runtime</scope>
 		</dependency>
-
+	 <dependency>
+	  <artifactId>junit</artifactId>
+	  <groupId>junit</groupId>
+	  <version>4.11</version>
+	 </dependency>
 	</dependencies>
 
 </project>
